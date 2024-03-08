@@ -1,0 +1,12 @@
+{
+  "name": "@thorsenmeas/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@thorsenmeas",
+  "repository": "https://github.com/ThorsenMeas/tea-xyz-quest.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
